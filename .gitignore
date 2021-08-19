@@ -1,2 +1,2 @@
 node_modules
-workspace.code-workspace
+*.code-workspace
