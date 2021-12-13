@@ -6,3 +6,23 @@
 - Подключен **ESlint**
 - Присутствует **Роутинг и новые страницы**
 - Применен **SOLID**
+
+### Начало работы
+
+Скопируйте приложение себе на компьютер
+
+```shell
+git clone https://github.com/nblackninja/front-excel-course
+cd front-excel-course
+npm install
+```
+
+Запустите приложение
+
+```shell
+# development
+npm run start
+
+# production
+npm run build
+```
